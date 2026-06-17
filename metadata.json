@@ -1,0 +1,6 @@
+{
+  "name": "Saudi Legal AI System",
+  "description": "منصة عدالة القانونية الذكية - نظام استشاري ومحاكاة قضائية متكامل مدعوم بالذكاء الاصطناعي للبحث والتحليل في الأنظمة السعودية والشريعة الإسلامية وصياغة وتدقيق المذكرات القانونية مع تقييم شامل للمخاطر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
